@@ -695,7 +695,7 @@ a { color: inherit; text-decoration: none; }
 }
 
 .project-figure {
-  max-width: 640px; !important;
+  max-width: 640px !important;
   margin: 24px 0 16px;
   border: 1px solid var(--border);
 }
